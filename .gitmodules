@@ -1,0 +1,3 @@
+[submodule "Projects"]
+	path = Projects
+	url = https://github.com/YashaswiVS/Blog-Application-with-MongoDB-and-PHP
